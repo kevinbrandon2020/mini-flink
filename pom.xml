@@ -58,7 +58,8 @@ under the License.
 		<module>flink-clients</module>
 		<module>flink-streaming-java</module>
 		<module>flink-examples</module>
-	</modules>
+        <module>flink-demo</module>
+    </modules>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
